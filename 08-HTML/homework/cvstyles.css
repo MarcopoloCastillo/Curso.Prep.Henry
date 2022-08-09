@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(241, 233, 200);
+}
+
+img{
+    margin-top: center;
+    margin-left: center;
+    max-block-size: 350px;
+}
+
+.container {
+
+    display: -webkit-flex;
+    display: flex;
+}
+
+nav{
+    width: 350px;
+}
+
+.flex-column {
+    margin-top: 40px;
+    margin-left: 30px;
+    -webkit-flex: 1;
+    flex: 1;
+}
+
+#sobreMi{
+    text-align: center;
+}
+
+
+
+#titulo{
+    margin-left: 200px;
+    font-size: 30px;
+}
+
+#escritura{
+    margin-left: 10px;
+    margin-top: 50px;
+    width: 900px;
+}
+
+#textyo{
+    font-size: 20px;
+}
+
+.descripcion{
+    font-size: 18px;
+}
+
